@@ -5,5 +5,3 @@ const numero = Number(prompt("Qual é o valor que você ganha por hora trabalhad
 const outronumero  = Number(prompt("Qual sua carga horaria trabalhada por mes? :):"))
 
 
-
-alert(numero*outronumero)
